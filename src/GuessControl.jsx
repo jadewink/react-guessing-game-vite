@@ -14,9 +14,9 @@ function GuessControl(onGuess) {
   }
 
   function onSubmitGuess(onGuess) {
-    console.log((Number(currentGuess)));
+    // console.log((Number(currentGuess)));
     setCurrentGuess("");
-    console.log(onGuess.setCurrentGuess);
+    // console.log(onGuess);
     // this.props.onGuess(Number(this.state.currentGuess));
 
   }
