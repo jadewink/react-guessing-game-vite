@@ -8,7 +8,7 @@ import { createRoot } from 'react-dom/client'
 //   <React.StrictMode>
 //     <App />
 //   </React.StrictMode>,
-//   document.getElementById("root")
+// document.getElementById("root")
 // );
 
 createRoot(document.getElementById('root')).render(<App />)
